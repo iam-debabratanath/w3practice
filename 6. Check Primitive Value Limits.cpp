@@ -4,13 +4,13 @@ int main()
 {
      char gender = 'F';                   
     bool Employed = true;               
-    unsigned short sons = 2;         
-    short joiningdate = 2009;              
-    unsigned int yearlysalary = 1500000; 
-    double height = 79.48;                
-    float cgpa = 4.69f;                    
-    long totalDrawan = 12047235L;         
-    long long balance = 995324987LL;      
+    unsigned short sons = 3;         
+    short joiningdate = 2001;              
+    unsigned int yearlysalary = 300000; 
+    double height = 80.43;                
+    float cgpa = 2.5f;                    
+    long totalDrawan = 434535342L;         
+    long long balance = 354524543LL;      
      
      cout << " The Gender is : " << gender << endl;
     cout << " Is she married? : " << Employed << endl;
